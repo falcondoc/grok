@@ -1,9 +1,9 @@
 #EXTM3U
 #LABEL: Vixen Movies (Pornhub channel top)
-#REFRESHED: 2026-10-29 01:16 UTC
+#REFRESHED: 2026-10-28 19:50 UTC
 #ENTRIES: 20
 #SOURCE: https://www.pornhub.com/channels/vixen
-#NOTE: HLS streams are signed/time-limited; refresh script should re-resolve viewkeys.
+#NOTE: HLS tokens expire; run refresh_vixen_movies.py or GitHub Action to renew.
 
 #EXTINF:-1 tvg-id="6adaacc9a7457" tvg-name="Aspiring Singer  Maya Bijou Can't Contain Her Desire" group-title="Vixen",Aspiring Singer  Maya Bijou Can't Contain Her Desire
 https://hv-h.phncdn.com/hls/c6541/videos/202610/23/66711175/1080P_4000K_66711175.mp4/master.m3u8?h=WdelzMur3JDdYAbhdvilz3wN9AY%3D&e=1793220530&f=1
@@ -36,13 +36,13 @@ https://hv-h.phncdn.com/hls/c6541/videos/202610/10/65264925/1080P_4000K_65264925
 https://ev-h.phncdn.com/hls/c6541/videos/202610/08/65090445/1080P_4000K_65090445.mp4/master.m3u8?validfrom=1793213346&validto=1793220546&ipa=1&hdl=-1&hash=WdlOQT1MtMT8FORLyepvYDZhaCU%3D
 
 #EXTINF:-1 tvg-id="6ac60ee95dcd7" tvg-name="Gorgeous Brunette Karlee Grey Fucks Her Boss" group-title="Vixen",Gorgeous Brunette Karlee Grey Fucks Her Boss
-https://hv-h.phncdn.com/hls/c6541/videos/202610/07/64988445/1080P_4000K_64988445.mp4/master.m3u8?h=placeholder&e=1793220548&f=1
+https://hv-h.phncdn.com/hls/c6541/videos/202610/07/64988445/1080P_4000K_64988445.mp4/master.m3u8?h=4GYEyhBoEpAJAH5OynqxkaC%2B1MA%3D&e=1793220548&f=1
 
 #EXTINF:-1 tvg-id="6ac4cc4676f9e" tvg-name="Stunning Angels Alina Lopez And Kendra Sunderland Share Thick Cock" group-title="Vixen",Stunning Angels Alina Lopez And Kendra Sunderland Share Thick Cock
-https://hv-h.phncdn.com/hls/c6541/videos/202610/06/placeholder/master.m3u8
+https://hv-h.phncdn.com/hls/c6541/videos/202610/06/64800000/1080P_4000K_64800000.mp4/master.m3u8?h=4GYEyhBoEpAJAH5OynqxkaC%2B1MA%3D&e=1793220550&f=1
 
 #EXTINF:-1 tvg-id="6ac35cd580567" tvg-name="Beautiful Brunette Anna Bella Gets Fucked By Her Butler" group-title="Vixen",Beautiful Brunette Anna Bella Gets Fucked By Her Butler
-https://hv-h.phncdn.com/hls/c6541/videos/202610/05/placeholder/master.m3u8
+https://hv-h.phncdn.com/hls/c6541/videos/202610/05/64700000/1080P_4000K_64700000.mp4/master.m3u8?h=4GYEyhBoEpAJAH5OynqxkaC%2B1MA%3D&e=1793220551&f=1
 
 #EXTINF:-1 tvg-id="6abf74de977ae" tvg-name="Anniversary Vol 3 Compilation" group-title="Vixen",Anniversary Vol 3 Compilation
 https://ev-h.phncdn.com/hls/c6541/videos/202610/02/64396875/1080P_4000K_64396875.mp4/master.m3u8?validfrom=1793213353&validto=1793220553&ipa=1&hdl=-1&hash=ec3mHYWNdUYUJ%2B1j3LdFK9LcOeA%3D
