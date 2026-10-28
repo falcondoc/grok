@@ -1,0 +1,38 @@
+name: Refresh Vixen Movies Playlist
+
+on:
+  schedule:
+    # Every 6 hours (tokens expire; keep streams fresh)
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh Vixen HLS tokens
+        run: |
+          python3 refresh_vixen_movies.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add movies.m3u
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: refresh movies.m3u Vixen tokens ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
