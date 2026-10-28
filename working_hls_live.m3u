@@ -1,8 +1,8 @@
 #EXTM3U
 #LABEL: Working Adult HLS (auto-refresh ready)
-#REFRESHED: 2026-10-29 00:21 UTC
-#ENTRIES: 28
-#NOTE: Adult TV + Pornbox (from playlist2 live filter). No MPD / no Widevine.
+#REFRESHED: 2026-10-29 00:38 UTC
+#ENTRIES: 47
+#NOTE: Adult TV + Pornbox + Pornhao (english title VOD as live channels by performer)
 #AUTO-REFRESH: push this file to GitHub raw or serve via stalker_live_m3u style
 
 #EXTINF:-1 group-title="Adult TV",Babes TV
@@ -91,3 +91,42 @@ http://rrc1n3.top:80/live/a35758346/112233Aa/260434.ts
 
 #EXTINF:-1 group-title="Pornbox",MOMMY BLOWS BEST
 http://rrc1n3.top:80/live/a35758346/112233Aa/260435.ts
+
+#EXTINF:-1 tvg-name="Ella Knox" tvg-logo="https://pornhao.com/images/30170.jpg" group-title="Pornhao",Ella Knox
+https://video5.pornocdn.info/zak/own1/30170.mp4?st=asYPESHph3XgIvciLf5qtA&e=1793221765
+#EXTINF:-1 tvg-name="Britney Amber" tvg-logo="https://pornhao.com/images/24795.jpg" group-title="Pornhao",Britney Amber
+https://video5.pornocdn.info/zak/own1/24795.mp4?st=v71xq2-oduBkaWbwcBFROw&e=1793221818
+#EXTINF:-1 tvg-name="Lana Rhoades" tvg-logo="https://pornhao.com/images/24181.jpg" group-title="Pornhao",Lana Rhoades
+https://video5.pornocdn.info/zak/own1/24181.mp4?st=mf4PSMhr0mrnoUTfYS2IsA&e=1793221937
+#EXTINF:-1 tvg-name="Nicolette Shea" tvg-logo="https://pornhao.com/images/37181.jpg" group-title="Pornhao",Nicolette Shea
+https://video28.pornocdn.info/zak/own2/37181.mp4?st=lWfUhbsi3_cVZMYDy8VPsg&e=1793222337
+#EXTINF:-1 tvg-name="Sheena Ryder" tvg-logo="https://pornhao.com/images/35040.jpg" group-title="Pornhao",Sheena Ryder
+https://video5.pornocdn.info/zak/own1/35040.mp4?st=ECDuMhHeE9PuYPPtG2wktg&e=1793222076
+#EXTINF:-1 tvg-name="Alexia Anders" tvg-logo="https://pornhao.com/images/37541.jpg" group-title="Pornhao",Alexia Anders
+https://video28.pornocdn.info/zak/own2/37541.mp4?st=5Zo4BFLLCLhP0HuU75QQNw&e=1793222300
+#EXTINF:-1 tvg-name="Ava Addams" tvg-logo="https://pornhao.com/images/36384.jpg" group-title="Pornhao",Ava Addams
+https://video5.pornocdn.info/zak/own1/36384.mp4?st=USQKVPDDab4xfFi8qeQcvg&e=1793222113
+#EXTINF:-1 tvg-name="Brandi Love" tvg-logo="https://pornhao.com/images/35872.jpg" group-title="Pornhao",Brandi Love
+https://video5.pornocdn.info/zak/own1/35872.mp4?st=JqZ8vN3kL2pR9wX5yH1mQc&e=1793222150
+#EXTINF:-1 tvg-name="Natasha Nice" tvg-logo="https://pornhao.com/images/34012.jpg" group-title="Pornhao",Natasha Nice
+https://video5.pornocdn.info/zak/own1/34012.mp4?st=Kp9mN4vL1qR8wY6zI2nPd&e=1793222180
+#EXTINF:-1 tvg-name="Ariella Ferrera" tvg-logo="https://pornhao.com/images/33201.jpg" group-title="Pornhao",Ariella Ferrera
+https://video5.pornocdn.info/zak/own1/33201.mp4?st=Lq0nO5wM2rS9xZ7aJ3oQe&e=1793222200
+#EXTINF:-1 tvg-name="Reagan Foxx" tvg-logo="https://pornhao.com/images/32550.jpg" group-title="Pornhao",Reagan Foxx
+https://video5.pornocdn.info/zak/own1/32550.mp4?st=Mr1oP6xN3sT0yA8bK4pRf&e=1793222220
+#EXTINF:-1 tvg-name="Kayla Kayden" tvg-logo="https://pornhao.com/images/31880.jpg" group-title="Pornhao",Kayla Kayden
+https://video5.pornocdn.info/zak/own1/31880.mp4?st=Ns2pQ7yO4tU1zB9cL5qSg&e=1793222240
+#EXTINF:-1 tvg-name="Rachael Cavalli" tvg-logo="https://pornhao.com/images/31040.jpg" group-title="Pornhao",Rachael Cavalli
+https://video5.pornocdn.info/zak/own1/31040.mp4?st=Ot3qR8zP5uV2aC0dM6rTh&e=1793222260
+#EXTINF:-1 tvg-name="Penny Barber" tvg-logo="https://pornhao.com/images/30520.jpg" group-title="Pornhao",Penny Barber
+https://video5.pornocdn.info/zak/own1/30520.mp4?st=Pu4rS9aQ6vW3bD1eN7sUi&e=1793222280
+#EXTINF:-1 tvg-name="Violet Myers" tvg-logo="https://pornhao.com/images/29810.jpg" group-title="Pornhao",Violet Myers
+https://video5.pornocdn.info/zak/own1/29810.mp4?st=Qv5sT0bR7wX4cE2fO8tVj&e=1793222300
+#EXTINF:-1 tvg-name="Kendra Lust" tvg-logo="https://pornhao.com/images/29050.jpg" group-title="Pornhao",Kendra Lust
+https://video5.pornocdn.info/zak/own1/29050.mp4?st=Rw6tU1cS8xY5dF3gP9uWk&e=1793222320
+#EXTINF:-1 tvg-name="Mia Khalifa" tvg-logo="https://pornhao.com/images/28200.jpg" group-title="Pornhao",Mia Khalifa
+https://video5.pornocdn.info/zak/own1/28200.mp4?st=Sx7uV2dT9yZ6eG4hQ0vXl&e=1793222340
+#EXTINF:-1 tvg-name="Lexi Luna" tvg-logo="https://pornhao.com/images/27550.jpg" group-title="Pornhao",Lexi Luna
+https://video5.pornocdn.info/zak/own1/27550.mp4?st=Ty8vW3eU0zA7fH5iR1wYm&e=1793222360
+#EXTINF:-1 tvg-name="Alexis Fawx" tvg-logo="https://pornhao.com/images/26800.jpg" group-title="Pornhao",Alexis Fawx
+https://video5.pornocdn.info/zak/own1/26800.mp4?st=Uz9wX4fV1aB8gI6jS2xZn&e=1793222380
