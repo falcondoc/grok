@@ -1,24 +1,9 @@
 #EXTM3U
 #LABEL: Working Adult HLS (auto-refresh ready)
-#REFRESHED: 2026-10-29 00:04 UTC
-#ENTRIES: 35
-#NOTE: Pure HLS only — no MPD / no Widevine. All links verified 200.
+#REFRESHED: 2026-10-29 00:10 UTC
+#ENTRIES: 12
+#NOTE: Pure HLS only — Adult TV channels. No MPD / no Widevine.
 #AUTO-REFRESH: push this file to GitHub raw or serve via stalker_live_m3u style
-
-#EXTINF:-1 group-title="Premium",Vixen HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6265/index.m3u8
-
-#EXTINF:-1 group-title="Premium",Blacked HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6178/index.m3u8
-
-#EXTINF:-1 group-title="Premium",Tushy HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6261/index.m3u8
-
-#EXTINF:-1 group-title="Premium",TushyRAW
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6262/index.m3u8
-
-#EXTINF:-1 group-title="Premium",Adult Time
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6166/index.m3u8
 
 #EXTINF:-1 group-title="Adult TV",Babes TV
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
@@ -58,57 +43,3 @@ https://59ec5453559f0.streamlock.net/miamitvmodels/smil:529634/playlist.m3u8
 
 #EXTINF:-1 group-title="Adult TV",PassionXXX HD
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Rough
-http://cdn.adultiptv.net/rough.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Anal
-http://cdn.adultiptv.net/anal.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Russian
-http://cdn.adultiptv.net/russian.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Teen
-http://cdn.adultiptv.net/teen.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",POV
-http://cdn.adultiptv.net/pov.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Latina
-http://cdn.adultiptv.net/latina.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-
-#EXTINF:-1 group-title="Adult Themes",Fetish
-http://cdn.adultiptv.net/fetish.m3u8
