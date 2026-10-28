@@ -1,8 +1,8 @@
 #EXTM3U
 #LABEL: Working Adult HLS (auto-refresh ready)
-#REFRESHED: 2026-10-29 00:10 UTC
-#ENTRIES: 12
-#NOTE: Pure HLS only — Adult TV channels. No MPD / no Widevine.
+#REFRESHED: 2026-10-29 00:21 UTC
+#ENTRIES: 28
+#NOTE: Adult TV + Pornbox (from playlist2 live filter). No MPD / no Widevine.
 #AUTO-REFRESH: push this file to GitHub raw or serve via stalker_live_m3u style
 
 #EXTINF:-1 group-title="Adult TV",Babes TV
@@ -43,3 +43,51 @@ https://59ec5453559f0.streamlock.net/miamitvmodels/smil:529634/playlist.m3u8
 
 #EXTINF:-1 group-title="Adult TV",PassionXXX HD
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+
+#EXTINF:-1 group-title="Pornbox",PlayBoy TV FHD
+http://rrc1n3.top:80/live/a35758346/112233Aa/260418.ts
+
+#EXTINF:-1 group-title="Pornbox",PlayBoy TV HD
+http://rrc1n3.top:80/live/a35758346/112233Aa/260419.ts
+
+#EXTINF:-1 group-title="Pornbox",Sexy Hot HD
+http://rrc1n3.top:80/live/a35758346/112233Aa/260420.ts
+
+#EXTINF:-1 group-title="Pornbox",BANG BROS NETWORK
+http://rrc1n3.top:80/live/a35758346/112233Aa/260423.ts
+
+#EXTINF:-1 group-title="Pornbox",EVIL ANGEL
+http://rrc1n3.top:80/live/a35758346/112233Aa/260424.ts
+
+#EXTINF:-1 group-title="Pornbox",FIT18
+http://rrc1n3.top:80/live/a35758346/112233Aa/260425.ts
+
+#EXTINF:-1 group-title="Pornbox",LETHAL HARDCORE
+http://rrc1n3.top:80/live/a35758346/112233Aa/260426.ts
+
+#EXTINF:-1 group-title="Pornbox",MY LIFE IN MIAMI
+http://rrc1n3.top:80/live/a35758346/112233Aa/260427.ts
+
+#EXTINF:-1 group-title="Pornbox",NEW SENSATIONS
+http://rrc1n3.top:80/live/a35758346/112233Aa/260428.ts
+
+#EXTINF:-1 group-title="Pornbox",PASSION
+http://rrc1n3.top:80/live/a35758346/112233Aa/260429.ts
+
+#EXTINF:-1 group-title="Pornbox",REALITY KINGS
+http://rrc1n3.top:80/live/a35758346/112233Aa/260430.ts
+
+#EXTINF:-1 group-title="Pornbox",BLOW ME POV
+http://rrc1n3.top:80/live/a35758346/112233Aa/260431.ts
+
+#EXTINF:-1 group-title="Pornbox",GOTMYLF
+http://rrc1n3.top:80/live/a35758346/112233Aa/260432.ts
+
+#EXTINF:-1 group-title="Pornbox",KINKY FAMILY
+http://rrc1n3.top:80/live/a35758346/112233Aa/260433.ts
+
+#EXTINF:-1 group-title="Pornbox",DREAMROOM
+http://rrc1n3.top:80/live/a35758346/112233Aa/260434.ts
+
+#EXTINF:-1 group-title="Pornbox",MOMMY BLOWS BEST
+http://rrc1n3.top:80/live/a35758346/112233Aa/260435.ts
