@@ -1,6 +1,13 @@
 #EXTM3U
 #LABEL: Vixen Movies (Pornhub channel top)
-#REFRESHED: 2026-10-31 12:58 UTC
-#ENTRIES: 0
+#REFRESHED: 2026-10-31 19:10 UTC
+#ENTRIES: 20
 #SOURCE: https://www.pornhub.com/channels/vixen
-#NOTE: HLS tokens expire; run refresh_vixen_movies.py or GitHub Action to renew.
+#NOTE: Tokens expire ~2h and are often IP-bound. Action refreshes every 2h; force re-run if 412.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.pornhub.com/
+
+#EXTINF:-1 tvg-id="6ae3e3e53d239" tvg-name="Vixen channel latest" group-title="Vixen",Channel entry 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.pornhub.com/
+https://ev-h.phncdn.com/hls/c6541/videos/202610/30/67290305/1080P_4000K_67290305.mp4/master.m3u8
