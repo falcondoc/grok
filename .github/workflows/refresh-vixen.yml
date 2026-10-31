@@ -2,8 +2,8 @@ name: Refresh Vixen Movies Playlist
 
 on:
   schedule:
-    # Every 6 hours (tokens expire; keep streams fresh)
-    - cron: "30 */6 * * *"
+    # Every 2 hours — Pornhub tokens expire ~2h and are often IP-bound
+    - cron: "15 */2 * * *"
   workflow_dispatch:
 
 permissions:
